@@ -1,5 +1,15 @@
 ## Hello, is anybody in there? 👋
 
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="State of Freedom Roleplay" src="https://media.discordapp.net/attachments/1334694769762242560/1335464792411996222/Logo1080.png"/>](https://www.rpstatefreedom.com.br/)
+
+**Head Developer** \
+[**State of Freedom**](https://www.rpstatefreedom.com.br/) • Full-time \
+Linguagens & Tecnologias: `Lua MTA:SA`, `MySQL`, `JS`, `PHP`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/)
+<br/>
+
 <!--
 **tgzN/tgzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
