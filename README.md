@@ -1,6 +1,6 @@
 ## Hello, is anybody in there? 👋
 
-[![tgzN](https://github-readme-stats.vercel.app/api/top-langs/?username=tgzN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tgzN](https://github-readme-stats.vercel.app/api/top-langs/?username=tgzN&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 ![img](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
