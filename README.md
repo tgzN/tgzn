@@ -13,7 +13,7 @@
 ### Projeto que estou atuando:
 
 **Founder & Head Developer** \
-[**State of Freedom Roleplay**](https://www.statefreedom.com.br/) • Full-time \
+[**State of Freedom**](https://www.statefreedom.com.br/) • Full-time \
 Linguagens & Tecnologias: `Lua MTA:SA`, `MySQL`, `JS`, `PHP`\
 <br/>
 
