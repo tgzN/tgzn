@@ -19,10 +19,11 @@ Linguagens & Tecnologias: `Lua MTA:SA`, `MySQL`, `JS`, `PHP`\
 
 ### Formação Acadêmica:
 
-**Sistemas de Informação** \
-**Universidade do Estado de Santa Catarina** • UDESC \
-Cursando\
+Bacharelado em **Sistemas de Informação** \
+> **Universidade do Estado de Santa Catarina** - UDESC \
+> Cursando (1° fase) \
 
 Técnico de **Desenvolvimento de Software** \
-**SENAC** \
+> **SENAC** \
+> Concluído em out. de 2025 \
 <br/>
