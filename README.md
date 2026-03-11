@@ -12,8 +12,8 @@
 
 ### Projeto que estou atuando:
 
-**Founder & Head Developer** \
-[**State of Freedom**](https://www.statefreedom.com.br/) • Full-time \
+**Owner & Head Developer** \
+[**State of San Andreas Roleplay**](https://ssa-rp.com/) • Full-time \
 Linguagens & Tecnologias: `Lua MTA:SA`, `MySQL`, `JS`, `PHP`\
 <br/>
 
